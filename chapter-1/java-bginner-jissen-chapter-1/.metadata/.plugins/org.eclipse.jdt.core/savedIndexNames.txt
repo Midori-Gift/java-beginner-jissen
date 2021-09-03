@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+G:\java-bginner-jissen-chapter-1\.metadata\.plugins\org.eclipse.jdt.core
+1522991763.index
+2057722781.index
