@@ -1,0 +1,28 @@
+public class Main {
+    public static void Main(String[] args) {
+    }
+    Book b1 = Book new();
+    Book b2 = Book new();
+    Book b3 = Book new();
+    
+    b1.settitle(java入門) ;
+    b2.settitle(Python入門);
+    b3.settitle(C言語入門) ;
+    
+    b2.setpublishDate(2018);
+    b3.setpublishDate(2019);
+    b1.setpublishDate(2011);
+    
+    b1.setcomment(スッキリ);
+    b2.setcomment(カレーがたべ);
+    b3.setcomment(ポインタ);
+    
+    System.println(b1);
+    System.println(b2);
+    System.println(b3);
+    
+    Collections.sort(Book, new TitleComparatar());
+}
+
+// 自分の回答
+
