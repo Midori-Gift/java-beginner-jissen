@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\G\java-beginner-jissen\.metadata\.plugins\org.eclipse.jdt.core
+3600536564.index
+3553535475.index
+3547169365.index
+3597574260.index
+3271343705.index
+3507962961.index
+3183484582.index
+2080264693.index
+4172721406.index
+1731769900.index
+2497588953.index
+1415805525.index
+1443697317.index
+2190502880.index
+664938195.index
+1260935328.index
+2481081493.index
+3616064090.index
